@@ -1,0 +1,1 @@
+Sample application used to create the sample/example data for the freemium reports.
